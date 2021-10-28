@@ -1,0 +1,31 @@
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    font-weight: bold;
+    background-color: grey;
+    color:white;
+}
+.aliens{
+    background-color:gold;
+    box-shadow: 10px 10px 10px grey;
+    width: 90%;
+    padding: 20px;
+    border: 5px solid grey;
+    border-radius: 40px;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.header_div,.main_div{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
